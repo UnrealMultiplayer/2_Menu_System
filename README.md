@@ -21,3 +21,10 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Creating an interface.
 + `CreateWidget` in C++.
 + Setup a MainMenu level.
+
+### 4 Changing UI Input Modes ###
+
++ Using `SetInputMode()`.
++ Configuring an input mode.
++ Displaying the cursor.
++ Repeat for yourselves.

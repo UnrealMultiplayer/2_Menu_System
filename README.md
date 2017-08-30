@@ -8,3 +8,10 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Creating a menu Blueprint.
 + Revision of layout.
 + Create a basic menu.
+
+### 2 Accessing UI Classes in C++ ###
+
++ Using the `FClassFinder`.
++ Finding `BP_PlatfromTrigger`.
++ Accessing UMG from C++.
++ Saving our menu class.

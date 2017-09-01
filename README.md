@@ -45,3 +45,7 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Using Google fonts.
 + Scale box for backgrounds.
 + Make it pretty.
+
+### 7 Solution: Custom Buttons And Fonts ###
+
++ We make our menu pretty.

@@ -37,3 +37,11 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Size boxes as spacers.
 + Overlay. 
 + Create a layout.
+
+### 6 Custom Buttons And Fonts ###
+
++ 9-slice images for buttons.
++ Box vs border vs image.
++ Using Google fonts.
++ Scale box for backgrounds.
++ Make it pretty.

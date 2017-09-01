@@ -49,3 +49,10 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 ### 7 Solution: Custom Buttons And Fonts ###
 
 + We make our menu pretty.
+
+### 8 Connecting UMG to C++ ###
+
++ Create a `UUserWidget` class.
++ Reparent the widget BP.
++ Add a bind widget property.
++ What do the errors mean?

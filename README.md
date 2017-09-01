@@ -28,3 +28,12 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Configuring an input mode.
 + Displaying the cursor.
 + Repeat for yourselves.
+
+### 5 Advanced UMG Widget Layout ###
+
++ How container widgets work.
++ Canvas panel.
++ Horizontal/vertical boxes.
++ Size boxes as spacers.
++ Overlay. 
++ Create a layout.

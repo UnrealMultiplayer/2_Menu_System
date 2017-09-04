@@ -62,3 +62,14 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + How to `Initialize` a UserWidget.
 + The UButton OnClick handler.
 + Add a dynamic handler.
+
+### 10 Interfaces To Invert Dependencies ###
+
++ Intro to inverting dependencies.
++ How to make a interface in Unreal.
++ Using an interface for callbacks.
++ Injecting the dependency.
+
+### 11 Solution: Injecting Dependencies ###
+
++ We solve last lecture's challenge.

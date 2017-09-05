@@ -79,3 +79,13 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Refactoring our menu setup.
 + Creating a teardown stub.
 + Reversing the setup logic.
+
+### 13 Sub-Menus With Widget Switchers ###
+
++ What are widget switchers.
++ Creating a "Join" menu.
++ Styling the menu.
+
+### 14 Solution: Styling Our Sub-Menu ###
+
++ We finish styling out menu.

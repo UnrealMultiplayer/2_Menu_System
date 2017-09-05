@@ -73,3 +73,9 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 ### 11 Solution: Injecting Dependencies ###
 
 + We solve last lecture's challenge.
+
+### 12 Deactivating Menus ###
+
++ Refactoring our menu setup.
++ Creating a teardown stub.
++ Reversing the setup logic.

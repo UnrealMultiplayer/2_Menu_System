@@ -96,3 +96,9 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Investigating the API.
 + Switching menus.
 + Implement a back button.
+
+### 16 Reading Text Fields From C++ ###
+
++ Set startup level.
++ Bind the text field.
++ Call the `Join()` function.

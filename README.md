@@ -102,3 +102,10 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Set startup level.
 + Bind the text field.
 + Call the `Join()` function.
+
+### 17 Challenge: Loading In-Game Menus ###
+
++ Create the new widget.
++ Create the layout.
++ Load on `ESC` key in level.
++ Create a `UMenuWidget`.

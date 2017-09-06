@@ -89,3 +89,10 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 ### 14 Solution: Styling Our Sub-Menu ###
 
 + We finish styling out menu.
+
+### 15 Navigating Menus In C++ ###
+
++ Binding the WidgetSwitcher.
++ Investigating the API.
++ Switching menus.
++ Implement a back button.

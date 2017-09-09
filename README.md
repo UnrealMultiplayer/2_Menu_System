@@ -109,3 +109,9 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Create the layout.
 + Load on `ESC` key in level.
 + Create a `UMenuWidget`.
+
+### 18 Challenge: Leaving A Server ###
+
++ The challenge spec.
++ Hook up the cancel button.
++ Hook up the quit button.

@@ -115,3 +115,9 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + The challenge spec.
 + Hook up the cancel button.
 + Hook up the quit button.
+
+### 19 Quitting A Game From C++ ###
+
++ How to quit from the console.
++ Running console commands from C++.
++ Quitting from a button press.

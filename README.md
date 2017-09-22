@@ -1,6 +1,11 @@
 # Unreal Multiplayer Course - Section 2 - Menu System
 
-How to create rich UI using Unreal's UMG in C++. This project lays the foundations for creating complex menu systems for multiplayer games. 
+How to create rich UI using Unreal's UMG in C++. This project lays the foundations for creating complex menu systems for multiplayer games.
+
+### 0 Introduction to Menu System ###
+
++ Overview of the section.
++ Why we need to cover UI.
 
 ### 1 Create a Menu Blueprint ###
 
@@ -35,7 +40,7 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + Canvas panel.
 + Horizontal/vertical boxes.
 + Size boxes as spacers.
-+ Overlay. 
++ Overlay.
 + Create a layout.
 
 ### 6 Custom Buttons And Fonts ###
@@ -121,3 +126,8 @@ How to create rich UI using Unreal's UMG in C++. This project lays the foundatio
 + How to quit from the console.
 + Running console commands from C++.
 + Quitting from a button press.
+
+### 99 Menu System Wrap-up ###
+
++ How to polish your menu system.
++ Share it with other students.
